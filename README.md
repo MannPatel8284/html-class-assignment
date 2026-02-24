@@ -51,3 +51,4 @@ The website was published using **GitHub Pages** following the class instruction
 ---
 
 ## 🌐 Live Website Link
+https://github.com/MannPatel8284/html-class-assignment.git
