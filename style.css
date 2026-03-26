@@ -1,0 +1,33 @@
+/* 1. Float image to the right */
+img {
+   float: right;
+}
+
+/* 2. Pseudo-element */
+h1::before {
+   content: "★ ";
+}
+
+/* 3. :hover on links */
+a:hover {
+   color: red;
+}
+
+/* 4. :nth-child on table rows */
+tr:nth-child(even) {
+   background-color: lightblue;
+}
+
+/* 5. Color and background */
+body {
+   background-color: lightgray;
+   color: black;
+}
+
+h1 {
+   color: navy;
+}
+
+h2 {
+   color: navy;
+}
